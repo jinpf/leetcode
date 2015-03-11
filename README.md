@@ -4,6 +4,8 @@
 
 I haven\`t written code for a long time, due to reading papers all the time. So I need to practice, or I can\`t find a job...
 
+mark: compile using g++: `g++ -std=c++0x file -o file `
+
 | No | Question |
 |---| ----- |
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|
