@@ -13,3 +13,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|
+
+For python:
+
+* quick sort
