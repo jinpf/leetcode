@@ -16,7 +16,7 @@ bool isPalindrome(string s) {
 }
 
 /**
- * O(n^3) this answer would have: Time Limit Exceeded
+ * Brute force: O(n^3). this answer would have: Time Limit Exceeded
  */
 string longestPalindrome(string s) {
   string longest = "";
