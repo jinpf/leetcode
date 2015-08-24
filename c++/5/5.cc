@@ -16,7 +16,8 @@ bool isPalindrome(string s) {
 }
 
 /**
- * Brute force: O(n^3). this answer would have: Time Limit Exceeded
+ * Brute force: O(n^3): traverse the matrix need O(n^2), each examine need O(n)
+ * this answer would have: Time Limit Exceeded
  */
 string longestPalindrome(string s) {
   string longest = "";

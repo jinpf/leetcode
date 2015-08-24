@@ -7,8 +7,10 @@ using std::endl;
 /**
  * dynamic programming method:
  * basic idea: if d[i][j] is Palindromic, then s[i]=s[j] and d[i+1][j-1] is Palindromic
+ *
  * then traverse the d matrix to caculate d[i][j] to see whether it`s Palindromic
  * cost: O(n^2)
+ *
  * traverse by the distance between i and j, if you want to know d[3][8], you need d[4][7]
  * distance lower then 2 must be known, d[3][3] = 1, d[3][4] ? 
  */

@@ -12,7 +12,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|[Linked List (C++)](./c++/2/2.cc "Linked List")|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|[Hash Table (C++)](./c++/3/3_2.cc "Hash Table")|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|[Divide and Conquer (C++)](./c++/4/4_1.cc "Divide and Conquer")|
-|5|[Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/)|[Dynamic Programming (C++)](./c++/5/5_1.cc "Dynamic Programming")|
+|5|[Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/)|[Dynamic Programming O(n^2) (C++)](./c++/5/5_1.cc "Dynamic Programming") |
 
 Some Usefull Code
 
