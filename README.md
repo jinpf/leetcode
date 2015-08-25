@@ -14,6 +14,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|[Divide and Conquer (C++)](./c++/4/4_1.cc "Divide and Conquer")|
 |5|[Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/)|[Dynamic Programming (C++)](./c++/5/5_1.cc "Dynamic Programming")|
 |6|[ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/)|[String (C++)](./c++/6/6.cc "String")|
+|7|[Reverse Integer ](https://leetcode.com/problems/reverse-integer/)|[Math (C++)](./c++/7/7.cc "Math")|
 
 Some Usefull Code
 
