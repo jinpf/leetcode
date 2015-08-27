@@ -1,8 +1,10 @@
 #include <iostream>
+#include <vector>
 
 using std::string;
 using std::cout;
 using std::endl;
+using std::vector;
 
 /**
  * dynamic programming method:
@@ -16,8 +18,8 @@ using std::endl;
  */
 
 string longestPalindrome(string s) {
-  bool d[1000][1000] = {false};
   int len = s.size();
+  vector < vector<bool> > d(len, vector<bool>(len, false));
   int mstart = 0;
   int mlen = 1;
 
