@@ -19,6 +19,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |9|[Palindrome Number ](https://leetcode.com/problems/palindrome-number/)|[Math (C++)](./c++/9/9.cc "Math")|
 |10|[Regular Expression Matching  ](https://leetcode.com/problems/regular-expression-matching/)|[String (C++)](./c++/10/10.cc "String") [Dynamic Programming (C++)](./c++/10/10_1.cc "Dynamic Programming")|
 
+
 Some Usefull Code
 
 | No | Question | Code |
