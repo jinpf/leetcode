@@ -6,20 +6,29 @@ using std::cin;
 using std::endl;
 using std::vector;
 using std::min;
+using std::max;
 
 /*
- * brute force way to solve this problem O(n^2)
+ * Greedy Method:
+ * basic idea:
+ * i stands for the left side, j stands for the right side, k between i and j
+ * capacity(i,j) = (j-i) * min([i],[j])
+ * so if ([i] < [j]) then [i,k] must less then [i,j]
+ *
+ * 
  */
 
 int maxArea(vector<int>& height) {
-	int max = 0, len = height.size();
-	for (int i = 0; i < len; ++i)
-		for (int j = i+1; j < len; ++j) {
-			int t = (j-i) * min(height[i],height[j]);
-			if (t > max)
-				max = t;
-		}
-	return max;
+	int r = 0, i = 0, j = height.size()-1;
+	while (i < j) {
+		int t = (j-i) * min(height[i],height[j]);
+		r = max(r,t);
+		if (height[i] < height[j])
+			++i;
+		else
+			--j;
+	}
+	return r;
 }
 
 int main()
