@@ -20,6 +20,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |10|[Regular Expression Matching  ](https://leetcode.com/problems/regular-expression-matching/)|[String (C++)](./c++/10/10.cc "String") [Dynamic Programming (C++)](./c++/10/10_1.cc "Dynamic Programming")|
 |11|[Container With Most Water  ](https://leetcode.com/problems/container-with-most-water/)|[Greedy (C++)](./c++/11/11_1.cc "Greedy")|
 |12|[Integer to Roman  ](https://leetcode.com/problems/integer-to-roman/)|[Math (C++)](./c++/12/12.cc "Math")|
+|13|[Roman to Integer  ](https://leetcode.com/problems/roman-to-integer/)|[Math (C++)](./c++/13/13.cc "Math")|
 
 Some Usefull Code
 
