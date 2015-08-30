@@ -21,6 +21,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |11|[Container With Most Water  ](https://leetcode.com/problems/container-with-most-water/)|[Greedy (C++)](./c++/11/11_1.cc "Greedy")|
 |12|[Integer to Roman  ](https://leetcode.com/problems/integer-to-roman/)|[Math (C++)](./c++/12/12.cc "Math")|
 |13|[Roman to Integer  ](https://leetcode.com/problems/roman-to-integer/)|[Math (C++)](./c++/13/13.cc "Math")|
+|14|[Longest Common Prefix  ](https://leetcode.com/problems/longest-common-prefix/)|[String (C++)](./c++/14/14.cc "String")|
 
 Some Usefull Code
 
