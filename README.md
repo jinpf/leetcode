@@ -15,13 +15,14 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |5|[Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/)|[Dynamic Programming (C++)](./c++/5/5_1.cc "Dynamic Programming")|
 |6|[ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/)|[String (C++)](./c++/6/6.cc "String")|
 |7|[Reverse Integer ](https://leetcode.com/problems/reverse-integer/)|[Math (C++)](./c++/7/7.cc "Math")|
-|8|[String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/)|[Math String (C++)](./c++/8/8.cc "Math String")|
+|8|[String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/)|[Math / String (C++)](./c++/8/8.cc "Math / String")|
 |9|[Palindrome Number ](https://leetcode.com/problems/palindrome-number/)|[Math (C++)](./c++/9/9.cc "Math")|
 |10|[Regular Expression Matching  ](https://leetcode.com/problems/regular-expression-matching/)|[String (C++)](./c++/10/10.cc "String") [Dynamic Programming (C++)](./c++/10/10_1.cc "Dynamic Programming")|
 |11|[Container With Most Water  ](https://leetcode.com/problems/container-with-most-water/)|[Greedy (C++)](./c++/11/11_1.cc "Greedy")|
 |12|[Integer to Roman  ](https://leetcode.com/problems/integer-to-roman/)|[Math (C++)](./c++/12/12.cc "Math")|
 |13|[Roman to Integer  ](https://leetcode.com/problems/roman-to-integer/)|[Math (C++)](./c++/13/13.cc "Math")|
 |14|[Longest Common Prefix  ](https://leetcode.com/problems/longest-common-prefix/)|[String (C++)](./c++/14/14.cc "String")|
+|15|[3Sum  ](https://leetcode.com/problems/3sum/)|[Array / Two Pointer (C++)](./c++/15/15.cc "Array / Two Pointer")|
 
 Some Usefull Code
 

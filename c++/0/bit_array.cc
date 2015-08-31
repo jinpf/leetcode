@@ -2,6 +2,10 @@
 using std::cout;
 using std::endl;
 
+/*
+ * For C++ better refer to bitset
+ */
+
 /** set mask: 
  *      num=0: 0000 0001 
  *      num=1: 0000 0010
