@@ -49,7 +49,6 @@ vector<vector<int>> threeSum(vector<int>& nums) {
 		while (i < len-2 && nums[i] == nums[i-1])
 			++i;
 	}
-
 	return ans;
 }
 
