@@ -24,6 +24,7 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |14|[Longest Common Prefix  ](https://leetcode.com/problems/longest-common-prefix/)|[String (C++)](./c++/14/14.cc "String")|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Array / Two Pointer (C++)](./c++/15/15.cc "Array / Two Pointer")|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Array / Two Pointer (C++)](./c++/16/16.cc "Array / Two Pointer")|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Backtracking / String (C++)](./c++/17/17.cc "Backtracking / String")|
 
 Some Usefull Code
 
