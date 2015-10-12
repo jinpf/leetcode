@@ -32,3 +32,5 @@ Some Usefull Code
 |---| ----- | ----- |
 |0|bit array opperation|[bit array (C++)](./c++/0/bit_array.cc "bit array(C++)")|
 |1|quick sort|[quick sort (python)](./python/quick_sort.py "quick sort(python)")|
+|2|KMP (string match)|[KMP (C++)](./c++/0/KMP.cc "KMP(C++)")|
+|3|Top K (Top K number)|[Top K (heap build/sort) (C++)](./c++/0/top_k.cc "Top K(C++)")|
