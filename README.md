@@ -25,6 +25,8 @@ mark: compile using g++: `g++ -std=c++0x file -o file `
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Array / Two Pointer (C++)](./c++/15/15.cc "Array / Two Pointer")|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Array / Two Pointer (C++)](./c++/16/16.cc "Array / Two Pointer")|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Backtracking / String (C++)](./c++/17/17.cc "Backtracking / String")|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Trie (C++)](./c++/208/208.cc "Trie")|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Binary Tree (C++)](./c++/226/226.cc "Binary Tree")|
 
 Some Usefull Code
 
